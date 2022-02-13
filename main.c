@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <gb/gb.h>
-#include "men.c"
+#include "./sprite/men.c"
+#include "./sprite/townSprite.c"
 
 
 void main(){
